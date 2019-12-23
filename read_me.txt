@@ -19,3 +19,5 @@ git remote
 git push 
 
 git push -u origin master
+
+git checkout myfile - восстановить файл "myfile"
