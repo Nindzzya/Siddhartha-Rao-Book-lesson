@@ -6,9 +6,7 @@ int DemoConsoleOutput();
 
 int main()
 {
-    DemoConsoleOutput();
-
-    return 0;
+    return DemoConsoleOutput();
 }
 
 int DemoConsoleOutput()
